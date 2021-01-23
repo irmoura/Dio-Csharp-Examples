@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\corag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\corag\\.nuget\\packages"
+    ]
+  }
+}
